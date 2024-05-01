@@ -36,7 +36,4 @@ To contribute:
 
 Please note that we have a Code of Conduct that we expect all contributors and community members to adhere to. This ensures a welcoming and inclusive environment for everyone involved.
 
-## License
-
-All repositories within our organization are licensed under the [MIT License](LICENSE), unless otherwise specified in the repository. Please review the license file for more details.
 
