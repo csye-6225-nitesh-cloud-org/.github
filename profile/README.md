@@ -19,21 +19,3 @@ Moreover, the CI/CD process automatically generates new images for each new vers
 
 The Serverless repository contains cloud function code designed to be triggered by Pub/Sub to send verification emails to users and track email interactions. This repository integrates with the webapp repository, where messages are published, initiating the workflow.
 
-## How to Contribute
-
-We welcome contributions from the community! Whether it's bug fixes, feature enhancements, or new ideas, feel free to submit pull requests and issues to any of our repositories.
-
-To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature/your-feature`).
-6. Create a new Pull Request.
-
-## Code of Conduct
-
-Please note that we have a Code of Conduct that we expect all contributors and community members to adhere to. This ensures a welcoming and inclusive environment for everyone involved.
-
-
