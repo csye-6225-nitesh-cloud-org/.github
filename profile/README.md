@@ -1,21 +1,39 @@
-## Hi there 👋
-## Welcome to my GitHub organization dedicated to cloud computing! Below you will find information about each repository within my organization.
-
-## Repositories
-
-### 1. [tf-gcp-infra](https://github.com/csye-6225-nitesh-cloud-org/tf-gcp-infra)
-
-This repository contains Infrastructure as Code (IaC) using Terraform for managing Google Cloud Platform (GCP) infrastructure. It includes configurations for provisioning various resources such as VPC, subents, firewall, Cloud SQL, storage buckets, Autoscaler, LoadBalancer, MIG and more.
-
-### 2. [webapp](https://github.com/csye-6225-nitesh-cloud-org/webapp)
-
-The webapp repository houses the API for user management, which has been deployed on Google Cloud Platform. Here's what you can find in this repository:
+<!-- Banner -->
+<p align="center">
   
-The "webapp" repository implements comprehensive CI/CD pipelines using GitHub Actions. These pipelines include integration tests to ensure code quality and reliability. Additionally, the repository integrates Packer for custom image creation, guaranteeing consistent and reproducible deployments.
+  <img src="https://user-images.githubusercontent.com/your-profile-image.png" width="100" />
+</p>
 
-Moreover, the CI/CD process automatically generates new images for each new version of the application. Subsequently, it seamlessly initiates rolling updates by creating new instance templates for the Managed Instance Group (MIG), which is intricately connected with a load balancer for efficient traffic distribution.
+# ☁️ Welcome to Cloud Playground! 🚀
 
-### 3. [Serverless](https://github.com/csye-6225-nitesh-cloud-org/serverless)
+This is where **cloud magic** happens! 🌟 Explore cutting-edge **cloud computing, Infrastructure as Code (IaC), CI/CD pipelines, and serverless workflows** — all in one place.
 
-The Serverless repository contains cloud function code designed to be triggered by Pub/Sub to send verification emails to users and track email interactions. This repository integrates with the webapp repository, where messages are published, initiating the workflow.
+---
+## 📌 Repositories at a Glance  
 
+### 🏗 [tf-gcp-infra](https://github.com/csye-6225-nitesh-cloud-org/tf-gcp-infra)  
+🔹 **Terraform-powered GCP infrastructure**  
+🔹 Includes **VPC, Subnets, Firewalls, Cloud SQL, Storage Buckets, Autoscaler, LoadBalancer, MIG**, and more.  
+🔹 **One command to rule them all!** 🚀  
+
+![Terraform](https://img.shields.io/badge/IaC-Terraform-blue?logo=terraform) ![GCP](https://img.shields.io/badge/Cloud-Google_Cloud-blue?logo=google-cloud)  
+
+---
+
+### 🚀 [webapp](https://github.com/csye-6225-nitesh-cloud-org/webapp)  
+🔹 **Cloud-deployed web API** for user management.  
+🔹 **CI/CD with GitHub Actions, Packer for custom images** 🛠  
+🔹 **Rolling updates** via MIG and Load Balancer.  
+
+![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-green?logo=github-actions) ![Packer](https://img.shields.io/badge/Automation-Packer-orange?logo=packer)  
+
+---
+
+### 📩 [Serverless](https://github.com/csye-6225-nitesh-cloud-org/serverless)  
+🔹 **Event-driven cloud functions** triggered via **Pub/Sub**.  
+🔹 Handles **email verification & tracking** seamlessly.  
+🔹 **Lightweight, scalable, and efficient.** ⚡  
+
+![Serverless](https://img.shields.io/badge/Serverless-GCP_Functions-yellow?logo=google-cloud)  
+
+---
