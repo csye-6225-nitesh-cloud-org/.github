@@ -1,7 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  
-  <img src="https://user-images.githubusercontent.com/your-profile-image.png" width="100" />
+  <img src="https://media1.tenor.com/m/iRkL6OMGhU4AAAAC/alarm.gif" width="300" />
 </p>
 
 # ☁️ Welcome to Cloud Playground! 🚀
